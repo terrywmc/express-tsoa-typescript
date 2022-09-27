@@ -1,7 +1,7 @@
 # Express + tsoa + typescript
 Simple resful api building with express, tsoa and typescript
 
-Getting Started
+# Getting Started
 First, run the development server:
 
 npm run dev
